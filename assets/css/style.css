@@ -75,7 +75,7 @@ content {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -152,7 +152,7 @@ content {
     color: #ffffff;
 }
 
-.social-media-marketing {
+figure{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -169,7 +169,7 @@ content {
     max-height: 200px;
 }
 
-.social-media-marketing img {
+figure img {
     max-height: 200px;
 }
 
@@ -182,8 +182,7 @@ content {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.social-media-marketing h2 {
+figure h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }

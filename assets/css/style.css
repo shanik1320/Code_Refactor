@@ -14,7 +14,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* everything inside the navigation tab*/
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -42,7 +42,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Information inside same size*/
 p {
     font-size: 16px;
 }
@@ -71,7 +71,7 @@ content {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* aside bar*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -98,7 +98,7 @@ content {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* the middle section of the page*/
 .information img {
     max-height: 200px;
 }

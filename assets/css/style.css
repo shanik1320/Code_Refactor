@@ -93,13 +93,15 @@ content {
     text-align: center;
 }
 
-
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+.information img {
+    max-height: 200px;
+}
 
 .information {
     margin-bottom: 20px;
@@ -110,7 +112,6 @@ content {
     color: #ffffff;
 }
 
-
 figure{
     margin-bottom: 20px;
     padding: 50px;
@@ -118,10 +119,6 @@ figure{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.information img {
-    max-height: 200px;
 }
 
 content h2 {
